@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Compress docs images (#8124)
