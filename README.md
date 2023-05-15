@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Update mkdocs.yml (#7693)
