@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
