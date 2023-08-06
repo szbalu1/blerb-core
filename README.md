@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add dota8.yaml and O tests (#7394)
