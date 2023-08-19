@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Update OpenVINO INT8 export (#7515)
