@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Docs partial mdformat improvements (#7378)
