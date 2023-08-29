@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Elaborate Train and Predict mode docs arguments (#8137)
