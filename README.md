@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+OBB: Fix when training on zip data (#8680)
