@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Fix Yolo 8.0.206 scale bug (#7821)
