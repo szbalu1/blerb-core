@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix OpenVINO links (#7930)
