@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Update neural-magic.md (#7347)
