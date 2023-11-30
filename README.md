@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Add plot_images conf_thresh parameter (#8446)
