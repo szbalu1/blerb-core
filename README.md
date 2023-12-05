@@ -1,1 +1,1 @@
-update
+Improve Coral Edge TPU guide (#8160)
