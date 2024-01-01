@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+YOLOv8 INT8 TFLite Inference Example (#7317)
