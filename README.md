@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
