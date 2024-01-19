@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Link checks SSL insecure robustness (#7853)
