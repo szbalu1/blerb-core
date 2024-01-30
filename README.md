@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+YOLOv8 INT8 TFLite Inference Example (#7317)
