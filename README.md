@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
