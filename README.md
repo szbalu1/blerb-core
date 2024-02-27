@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
