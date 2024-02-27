@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Feature: Create HUB Models from CLI or Python Script (#7316)
