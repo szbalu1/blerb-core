@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
