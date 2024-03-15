@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
