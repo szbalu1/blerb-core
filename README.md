@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
