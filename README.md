@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add PaddlePaddle Docs Integrations Page (#8858)
