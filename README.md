@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
