@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Update Colab notebook for YOLOv8.1 (#8660)
