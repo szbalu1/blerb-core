@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add YOLOv8 LibTorch C++ inference example (#7090)
