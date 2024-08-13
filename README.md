@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
