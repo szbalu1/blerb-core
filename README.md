@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
