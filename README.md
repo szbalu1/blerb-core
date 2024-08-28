@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
