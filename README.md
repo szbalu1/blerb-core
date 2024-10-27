@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Update Colab notebook for YOLOv8.1 (#8660)
