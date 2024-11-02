@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Update format.yml to pull_request_target (#7460)
