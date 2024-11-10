@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
